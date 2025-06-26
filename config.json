@@ -54,7 +54,7 @@
             "playNow": "Play Now"
         },
         "hero": {
-            "title": "Welcome Bonus",
+            "title": "\u0411\u041e\u043d\u0443\u0441",
             "textDesktop": "Exclusive welcome offer of",
             "textMobile": "Exclusive welcome bonus of",
             "playGame": "Play game",
@@ -256,15 +256,15 @@
     },
     "en": {
         "styles": {
-            "bg": "#000000",
-            "bg-light": "#242d28",
-            "main-bg": "#20231a",
-            "text": "#b5c2c4",
-            "text-black": "#ebe5e5",
-            "table-head": "#121714",
+            "bg": "#f3f4f1",
+            "bg-light": "#25ac61",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#25ac61",
             "text-head": "#ffffff",
             "hero-title-text": "#222829",
-            "welcome-bonus-text": "#312121",
+            "welcome-bonus-text": "#fb333d",
             "yellow": "#17d26a",
             "yellow-button": "#fb333d",
             "button-text": "#ffffff",
@@ -334,11 +334,11 @@
         "advantages": {
             "title": "Advantages",
             "items": [
+                "Legal and safe casino",
+                "Quick registration",
                 "Data protection",
                 "No wagering bonus",
-                "Wide range of games",
-                "Very good cason",
-                "Legal and safe casino"
+                "Wide range of games"
             ],
             "knowMore": "Know more",
             "appTitle": "Mobile App",
@@ -511,15 +511,15 @@
     },
     "zh": {
         "styles": {
-            "bg": "#000000",
-            "bg-light": "#242d28",
-            "main-bg": "#20231a",
-            "text": "#b5c2c4",
-            "text-black": "#ebe5e5",
-            "table-head": "#121714",
+            "bg": "#f3f4f1",
+            "bg-light": "#25ac61",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#25ac61",
             "text-head": "#ffffff",
             "hero-title-text": "#222829",
-            "welcome-bonus-text": "#312121",
+            "welcome-bonus-text": "#fb333d",
             "yellow": "#17d26a",
             "yellow-button": "#fb333d",
             "button-text": "#ffffff",
@@ -589,11 +589,11 @@
         "advantages": {
             "title": "Advantages",
             "items": [
+                "Legal and safe casino",
+                "Quick registration",
                 "Data protection",
                 "No wagering bonus",
-                "Wide range of games",
-                "Very good cason",
-                "Legal and safe casino"
+                "Wide range of games"
             ],
             "knowMore": "Know more",
             "appTitle": "Mobile App",
